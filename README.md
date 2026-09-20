@@ -1,5 +1,8 @@
-## Hi there 👋
+### Sup
 
+i'm Pietro, a student of computing.
+
+i program and build whatever i can imagine.
 <!--
 **PietroSantos85/PietroSantos85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
