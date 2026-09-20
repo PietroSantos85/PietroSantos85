@@ -1,8 +1,8 @@
-### Sup
+### Sup!
 
-i'm Pietro, a student of computing.
+I'm Pietro, a student of computing.
 
-i program and build whatever i can imagine.
+I'm currently working on a school project
 <!--
 **PietroSantos85/PietroSantos85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
